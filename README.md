@@ -375,28 +375,6 @@ ed-throughput-admission-delay-analytics/
     ├── 04_feature_engineering.sql
     ├── 05_advanced_features.sql
     └── 06_dashboard_outputs.sql
-```
-
-### **What Each Folder Contains**
-
-- **`dashboard/`**
-  - final Tableau workbook
-  - dashboard preview image used in the README
-
-- **`data_clean/dashboard_exports/`**
-  - final dashboard-ready CSV exports used for Tableau visuals
-
-- **`data_raw/`**
-  - original source CSVs used in the project
-
-- **`excel/`**
-  - supporting Excel-based data dictionary
-
-- **`insights/`**
-  - supporting notes and written summary material
-
-- **`sql/`**
-  - all SQL scripts used across setup, cleaning, feature engineering, and dashboard output creation
 
 ---
 
