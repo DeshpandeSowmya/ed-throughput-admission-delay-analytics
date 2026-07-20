@@ -1,0 +1,12 @@
+equity_dimension,equity_value,ed_visits,avg_ed_los_minutes,pct_long_stay
+Age Group,18-34,58,1512.59,18.97
+Age Group,35-49,54,524.44,12.96
+Age Group,50-64,29,620.69,10.34
+Age Group,65,62,95.79,4.84
+Age Group,0-17,35,119.2,5.71
+Race,white,211,675.55,12.32
+Race,black,27,60.0,0.0
+Ethnicity,nonhispanic,209,680.79,12.44
+Ethnicity,hispanic,29,64.66,0.0
+Condition Burden,6,232,618.96,10.78
+Condition Burden,3-5,6,93.83,16.67

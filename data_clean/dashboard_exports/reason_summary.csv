@@ -1,0 +1,19 @@
+reason_group,ed_visits,avg_ed_los_minutes,median_ed_los_minutes,pct_long_stay
+Sepsis (disorder),7,13320.0,10980.0,100.0
+Overdose (disorder),27,573.33,300.0,55.56
+Pneumonia (disorder),3,300.0,300.0,66.67
+Acute infective cystitis (disorder),5,140.0,132.0,0.0
+Seizure disorder (disorder),3,88.33,76.0,0.0
+Fracture of bone (disorder),12,70.58,60.0,0.0
+Concussion injury of brain (disorder),5,60.0,60.0,0.0
+Childhood asthma (disorder),4,60.0,60.0,0.0
+Impacted molars (disorder),7,60.0,60.0,0.0
+Emergency room admission (procedure),81,60.0,60.0,0.0
+Normal pregnancy (finding),18,60.0,60.0,0.0
+Myocardial infarction (disorder),6,60.0,60.0,0.0
+Laceration - injury (disorder),21,60.0,60.0,0.0
+Chronic pain (finding),5,60.0,60.0,0.0
+Chronic intractable migraine without aura (disorder),5,60.0,60.0,0.0
+Sprain (morphologic abnormality),11,60.0,60.0,0.0
+Injury of neck (disorder),6,60.0,60.0,0.0
+Chronic congestive heart failure (disorder),5,60.0,60.0,0.0

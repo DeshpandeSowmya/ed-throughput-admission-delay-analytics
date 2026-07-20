@@ -1,0 +1,18 @@
+Main joins for the project:
+
+patients.Id = encounters.PATIENT
+patients.Id = conditions.PATIENT
+encounters.Id = conditions.ENCOUNTER
+encounters.PAYER = payers.Id
+encounters.ORGANIZATION = organizations.Id
+encounters.PROVIDER = providers.Id
+
+Core analysis table:
+encounters.csv
+
+Supporting tables:
+patients.csv
+conditions.csv
+payers.csv
+organizations.csv
+providers.csv
