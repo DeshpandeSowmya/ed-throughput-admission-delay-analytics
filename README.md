@@ -1,4 +1,4 @@
-### **EDepartment Throughput, Delay, and Equity Dashboard**
+# **ED Throughput, Delay, and Equity Dashboard**
 
 ## **Emergency Department Throughput, Delay, and Equity Analytics Using SQL, Excel, and Tableau**
 
