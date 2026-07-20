@@ -411,4 +411,6 @@ https://public.tableau.com/app/profile/sowmya.deshpande8412/viz/Book1_1784520184
 ## **About Me**
 
 Created by **Sowmya Deshpande**  
-Healthcare Data Analyst | Public Health Analytics | SQL | R | Tableau | Excel | Population Health | Healthcare Operations Analytics
+Healthcare Data Analyst | Public Health Analytics | SQL | R | Tableau | Excel | Population Health | Healthcare Operations Analytics | NYC DOHMH
+
+[LinkedIn](www.linkedin.com/in/sowmyadeshpande) | [GitHub](https://github.com/DeshpandeSowmya)
