@@ -1,3 +1,5 @@
+### **EDepartment Throughput, Delay, and Equity Dashboard**
+
 ## **Emergency Department Throughput, Delay, and Equity Analytics Using SQL, Excel, and Tableau**
 
 An end-to-end healthcare analytics project examining **emergency department throughput**, **long-stay patterns**, **subgroup variation**, and **operational bottlenecks** using synthetic patient-level encounter data.
